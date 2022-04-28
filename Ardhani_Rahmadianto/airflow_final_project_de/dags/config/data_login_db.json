@@ -1,0 +1,17 @@
+{ "data_login_mysql" : {
+        "DB_NAME" : "tugas_akhir_de",
+        "DB_USER" : "ardhani",
+        "DB_PASSWORD" : "ardhani",
+        "DB_HOST" : "host.docker.internal",
+        "DB_PORT" : "3366"
+    },
+
+    "data_login_postgres" : {
+        "DB_NAME" : "tugas_akhir_de",
+        "DB_USER" : "ardhani",
+        "DB_PASSWORD" : "ardhani",
+        "DB_HOST" : "host.docker.internal",
+        "DB_PORT" : "5454"
+    }
+    
+}
